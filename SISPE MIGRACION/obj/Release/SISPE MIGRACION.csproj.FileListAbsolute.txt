@@ -1,0 +1,196 @@
+c:\users\santiago antonio\documents\visual studio 2015\Projects\SISPE MIGRACION\SISPE MIGRACION\bin\Release\SISPE MIGRACION.exe.config
+c:\users\santiago antonio\documents\visual studio 2015\Projects\SISPE MIGRACION\SISPE MIGRACION\bin\Release\SISPE MIGRACION.exe
+c:\users\santiago antonio\documents\visual studio 2015\Projects\SISPE MIGRACION\SISPE MIGRACION\bin\Release\SISPE MIGRACION.pdb
+c:\users\santiago antonio\documents\visual studio 2015\Projects\SISPE MIGRACION\SISPE MIGRACION\bin\Release\Npgsql.dll
+c:\users\santiago antonio\documents\visual studio 2015\Projects\SISPE MIGRACION\SISPE MIGRACION\bin\Release\System.Threading.Tasks.Extensions.dll
+c:\users\santiago antonio\documents\visual studio 2015\Projects\SISPE MIGRACION\SISPE MIGRACION\bin\Release\Npgsql.xml
+c:\users\santiago antonio\documents\visual studio 2015\Projects\SISPE MIGRACION\SISPE MIGRACION\bin\Release\System.Threading.Tasks.Extensions.xml
+c:\users\santiago antonio\documents\visual studio 2015\Projects\SISPE MIGRACION\SISPE MIGRACION\obj\Release\SISPE MIGRACION.csprojResolveAssemblyReference.cache
+c:\users\santiago antonio\documents\visual studio 2015\Projects\SISPE MIGRACION\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.datosConexion.resources
+c:\users\santiago antonio\documents\visual studio 2015\Projects\SISPE MIGRACION\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.login.resources
+c:\users\santiago antonio\documents\visual studio 2015\Projects\SISPE MIGRACION\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.menuPrincipal.resources
+c:\users\santiago antonio\documents\visual studio 2015\Projects\SISPE MIGRACION\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.Properties.Resources.resources
+c:\users\santiago antonio\documents\visual studio 2015\Projects\SISPE MIGRACION\SISPE MIGRACION\obj\Release\SISPE MIGRACION.csproj.GenerateResource.Cache
+c:\users\santiago antonio\documents\visual studio 2015\Projects\SISPE MIGRACION\SISPE MIGRACION\obj\Release\SISPE MIGRACION.exe
+c:\users\santiago antonio\documents\visual studio 2015\Projects\SISPE MIGRACION\SISPE MIGRACION\obj\Release\SISPE MIGRACION.pdb
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\bin\Release\SISPE MIGRACION.exe.config
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE MIGRACION.exe
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE MIGRACION.pdb
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\bin\Release\SISPE MIGRACION.exe
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\bin\Release\SISPE MIGRACION.pdb
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\bin\Release\DbfDataReader.dll
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\bin\Release\DotNetDBF.dll
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\bin\Release\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\bin\Release\Npgsql.dll
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\bin\Release\Npgsql.xml
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE MIGRACION.csproj.SISPE MIGRACION.exe.config
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.codigo.herramientas.forms.controles.frmError.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.codigo.herramientas.forms.controles.frmExclamacion.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.codigo.herramientas.forms.controles.frmInformacion.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.codigo.herramientas.forms.controles.frmQuestion.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.codigo.herramientas.forms.controles.frmSuccess.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.codigo.herramientas.forms.controles.yesno.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.codigo.herramientas.forms.frmAgregarTasaInteres.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.codigo.herramientas.forms.frmAvisoPregunta.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.codigo.herramientas.forms.frmDescuentosDePensiones.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.codigo.herramientas.forms.frmImpresionQuirografario.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.codigo.herramientas.forms.frmImprimirReporteTasas.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.codigo.herramientas.forms.frmReporte.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.codigo.herramientas.forms.frmReporteSituacionLaboral.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.codigo.herramientas.forms.frmTasaDeInteresescs.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.codigo.herramientas.forms.ingresarFecha.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.codigo.herramientas.forms.menu.frmFondo.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.codigo.herramientas.forms.menu.frmMenu.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.codigo.herramientas.forms.seleccionar.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.acerca.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.ADMINISTRACION.frmGestionUsuarios.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.ADMINISTRACION.frmNuevoUsuario.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.CATÁLOGOS.frmCatalogoDependencia.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.CATÁLOGOS.frmCatalogoGeneral.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.CATÁLOGOS.frmCatalogoP_quirog.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.CATÁLOGOS.frmCatemplea.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.CATÁLOGOS.frmdependencias.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.CATÁLOGOS.frmEmpleados.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.CATÁLOGOS.frmFirmas.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.CATÁLOGOS.frmFondoGarantiaCatalogo.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.CATÁLOGOS.frmMovimientos.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.CATÁLOGOS.frmCategorias.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.CATÁLOGOS.frmProyecto.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.CATÁLOGOS.modales_catalogos.modalEmpleados.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.CATÁLOGOS.modales_catalogos.modalQuirografario.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.FINANCIEROS.CHEQUES.frmaltaschq.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.FINANCIEROS.CHEQUES.frmcierrechq.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.FINANCIEROS.CHEQUES.frmcuentas.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.FINANCIEROS.CHEQUES.frmfirmas.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.FINANCIEROS.CHEQUES.frmrepocheques.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.FINANCIEROS.CHEQUES.frmreportecaja.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.FINANCIEROS.CHEQUES.PRESUPUESTO.frmaltapresupuesto.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.FINANCIEROS.CHEQUES.PRESUPUESTO.frmcajapresupuesto.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.FINANCIEROS.CHEQUES.PRESUPUESTO.frmchequeras.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.FINANCIEROS.CHEQUES.PRESUPUESTO.frmcuentapresu.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.FINANCIEROS.CHEQUES.PRESUPUESTO.frmrepochqpresup.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.FINANCIEROS.CHEQUES.ventanaPrincipal.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.FINANCIEROS.CHEQUES.frmDatosGenerales.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.FINANCIEROS.PASACHEQ.frmEscogerImportacion.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.FINANCIEROS.PASACHEQ.frmVisualizarCheques.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.Fondo_de_Pensiones.DISKETTES.frmFondoReportes.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.Fondo_de_Pensiones.DISKETTES.Reportes.frmGenerarArchivo.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.Fondo_de_Pensiones.DISKETTES.RESUMEN.frmResumen.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.Fondo_de_Pensiones.frmaclaraciones.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.Fondo_de_Pensiones.frmactuario.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.Fondo_de_Pensiones.frmconstancias.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.Fondo_de_Pensiones.frmConsultaAclaraciones.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.Fondo_de_Pensiones.frmfechareg.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.Fondo_de_Pensiones.frmreporconsta.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.CATÁLOGOS.frmsaldospendientes.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.Fondo_de_Pensiones.DISKETTES.frmActualizar.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.Fondo_de_Pensiones.frmaportaciones.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.Fondo_de_Pensiones.frmconsultas.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.Fondo_de_Pensiones.frmgrafica.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.Fondo_de_Pensiones.frmreporlisaporta.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.Fondo_de_Pensiones.frmreposaldos.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.Fondo_de_Pensiones.frmVentanaImpConstancias.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.Fondo_de_Pensiones.imprimirconsta.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.login.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.menuPrincipal.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.NOMINAS.CATALOGOS.frmFirmasNomina.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.NOMINAS.CATALOGOS.frmPercepcionesyDeducciones.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.NOMINAS.CATALOGOS.frmPerded.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.NOMINAS.CATALOGOS.modal.frmModalJubilados.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\EnviarCorreo.EnviarMensaje.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.NOMINAS.CORREO_ELECTRONICO.EMAIL.frmAutentificacion.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\EnviarCorreo.visualizadorWeb.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.sobres.cargarInformacionSobres.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.sobres.frmsobres.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.NOMINAS.PROCESO_DE_NOMINA.frmgenlist.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.NOMINAS.PROCESO_DE_NOMINA.REGISTRO_DE_INCIDENCIAS.frminfojub.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.NOMINAS.PROCESO_DE_NOMINA.REGISTRO_DE_INCIDENCIAS.frmMovimientosNominas.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.NOMINAS.REPORTES.frmSobres.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.NOMINAS.SUPERVIVENCIA.frmSupervivencia.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.OTROS.SERVIDOR102.frmAportacionesViejas.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.OTROS.SERVIDOR102.frm.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.OTROS.SERVIDOR102.frmGrafica.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.OTROS.SERVIDOR102.frmRelacionarTarjetas.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PQ.CAJA.frmImpresion.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PQ.CAJA.frmOpcionesPagoCaja.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PQ.CAJA.p_caja.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.CONTROL_Y_REGISTRO.HIPOTECARIO.frmAltasCambiosHipote.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.CONTROL_Y_REGISTRO.QUIROGRAFARIO.FONDO_GARANTIA.CAPTURA.frmDevolucionFondo.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.CONTROL_Y_REGISTRO.QUIROGRAFARIO.FONDO_GARANTIA.CAPTURA.frmFondoGarantia.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.CONTROL_Y_REGISTRO.QUIROGRAFARIO.frmActualizarRelLaboral.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.CONTROL_Y_REGISTRO.QUIROGRAFARIO.frmAltasCambios.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.CONTROL_Y_REGISTRO.QUIROGRAFARIO.frmGenerarPorFecha.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.CONTROL_Y_REGISTRO.REPORTES.frmMenuOpciones.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.CONTROL_Y_REGISTRO.REPORTES.frmTiporelacion.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.CONTROL_Y_REGISTRO.VALIDACIONES.frmSalida.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.CONTROL_Y_REGISTRO.VALIDACIONES.frmSinPagos.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.ESTADOS_DE_CUENTA.adicionalconsulta.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.ESTADOS_DE_CUENTA.frmdevol.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.ESTADOS_DE_CUENTA.frmestados.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.ESTADOS_DE_CUENTA.frmestadosHipo.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.ESTADOS_DE_CUENTA.REPORTES.ESTADOS_DE_CUENTA.frmEstadosCuenta.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.ESTADOS_DE_CUENTA.REPORTES.ESTADOS_DE_CUENTA.frmMostrarDatos.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.ESTADOS_DE_CUENTA.REPORTES.REGISTROS_MANUALES.frmQuirografarioRegistroManuales.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.ESTADOS_DE_CUENTA.REPORTES.REGISTROS_MANUALES.frmSeleccionarRegistro.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.ESTADOS_DE_CUENTA.frmsaldos.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.ESTADOS_DE_CUENTA.REPORTES.SALDOS.listaReportes.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PH.DOCUMENTOS.frmAmpliacion.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PH.DOCUMENTOS.frmavaluo.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PH.DOCUMENTOS.frmComplementoConsejo.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PH.DOCUMENTOS.frmconveniomodificatorio.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PH.frmdocusolic.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PH.DOCUMENTOS.frmEmisiones.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PH.DOCUMENTOS.ESTUDIO_TÉCNICO.frmEstudioTecnico_.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PH.DOCUMENTOS.frmNegativo.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PH.DOCUMENTOS.frmNotificacion.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PH.DOCUMENTOS.frmOficioPContinuar.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PH.DOCUMENTOS.frmPagare.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PH.DOCUMENTOS.ESTUDIO_SOCIOECONO.frmSocioEconomico.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PH.DOCUMENTOS.ESTUDIO_SOCIOECONO.frmSocioEconomicoprincipal.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PH.DOCUMENTOS.ESTUDIO_SOCIOECONO.frmSocioEconomicoSecundario.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PH.frmComplementoAutorizacion.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PH.frmFechaAutorizacion.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PH.frmFecha_statust.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PH.frmMontosHipote.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PH.PRINCIPAL_PH.extras.frmAutorizaCreditos.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PH.frmDocumentos.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PH.frmexpediente.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PH.PRINCIPAL_PH.frmhcdocum.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PH.PRINCIPAL_PH.frmReportes.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PH.frmSolicitudesHipotecario.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PH.hipotecarios.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PH.REPORTES.frmAlfaHipo.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PH.REPORTES.frmBuscador.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PH.REPORTES.frmConvenioMod.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PH.REPORTES.frmOtorgadosHip.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PH.TASAS.frmTasaHipote.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PQ.frmAltas.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PQ.frmprogchq.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PQ.frmTasas.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PQ.reportes.frmAlfabet.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PQ.reportes.frmMontos.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PQ.reportes.frmPagares.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PQ.REPORTE.frmReporteSaldosEmisionCheque.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PQ.reportes.frmSolicitudEntrega.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PQ.frmdiacheque.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PQ.UTILERIAS.frmGenerarMesCheque.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.OTORGAMIENTO_PQ.UTILERIAS.frmGuardarProgramado.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.PAGO_DE_MARCHA.frmpagomarcha.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.PRESTACIONES_ECON.PAGO_DE_MARCHA.frmrepormarcha.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.Seguros.frmactquiro.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.Seguros.frmactualizaseguro.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.Seguros.frmgenerarseguro.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.Seguros.frmimportarseguros.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.Seguros.frmincrementarserie.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.Seguros.frmlistaseguro.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.Seguros.frmseguro.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.formularios.Seguros.frmultimoasegurado.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE_MIGRACION.Properties.Resources.resources
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\SISPE MIGRACION.csproj.GenerateResource.Cache
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\RdlCompile.cache
+C:\Users\samv\Documents\PROYECTOS\sispeMigracion\SISPE MIGRACION\obj\Release\RdlCompile.compiled
